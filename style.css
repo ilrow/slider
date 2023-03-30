@@ -331,7 +331,7 @@ select {
             padding-top: 330px;
             z-index: 10;
             width: 200px;
-            padding-bottom: 0px;
+            padding-bottom: 40px;
     }
 }
 .box__arrow-left{
