@@ -244,8 +244,8 @@ select {
     transition: all ease 0.3s;
 }
 @media(max-width:768px){
-    .list-item:hover{
-    border: none !important;
+    .item-active{
+    border: none;
 }
 }
 /*====================*/
